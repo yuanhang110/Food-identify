@@ -26,6 +26,8 @@ https://www.cnblogs.com/yuanhang110/p/11229358.html  （介绍在我的博客）
 
 使用平台Windows，已打包成exe，可直接运行，通过调用百度智能云平台来实现图像识别，不过api提供的accesstoken是30天更新一次，下载后替换成自己的就可以了。
 
+数据库使用的是mysql，用navicat来进行管理
+
 调用了阿里处理json数据的fastjson解析 jar包。使用了一些常见的布局，如网格布局
 
 图像识别可以显示的结果如图：
